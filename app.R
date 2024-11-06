@@ -1,3 +1,6 @@
+library(tidyverse)   
+library(shiny)
+
 gpmdata <- read_csv("Gapminder_data.csv")
 
 # user interface
